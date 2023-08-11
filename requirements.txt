@@ -36,4 +36,4 @@ typing
 uvicorn
 websockets
 google-auth
-psycopg2
+psycopg2-binary==2.7.5
