@@ -1,4 +1,4 @@
-# <img src="./realtime_ai_character/static/Therapist.png" height="24px" style="padding-top:4px"/>RealChar. - Your Realtime AI Character
+# <img src="./realtime_ai_character/static/Therapist.png" height="24px" style="padding-top:4px"/>Therapist AI
 <br/>
 <div align="center">
     <img src="./realtime_ai_character/static/Therapist.png" alt="RealChar-logo" width="80%"  style="padding: 40px"/>
@@ -28,22 +28,6 @@
     </a>
 </div>
 
-## ✨ Demo
-Try our site at [RealChar.ai](https://realchar.ai/)
-
-(We are also beta-testing our iOS mobile app📱! Sign up [here](https://testflight.apple.com/join/JA6p9sZQ))
-
-### Demo 1 - with AI Elon about cage fight!
-
-https://github.com/Shaunwei/RealChar/assets/5101573/5de0b023-6cf3-4947-84cb-596f429d109e
-
-### Demo 2 - with AI Raiden about AI and "real" memory
-
-https://github.com/Shaunwei/RealChar/assets/5101573/62a1f3d1-1166-4254-9119-97647be52c42
-
-
-
-__Demo settings: Web, GPT4, ElevenLabs with voice clone, Chroma, Google Speech to Text__
 
 ## 🎯 Key Features
 - **Easy to use**: No coding required to create your own AI character.
@@ -77,10 +61,6 @@ __Demo settings: Web, GPT4, ElevenLabs with voice clone, Chroma, Google Speech t
 ## 👨‍🚀 Prerequisites
 
 Before you begin setting up this project, please ensure you have completed the following tasks:
-
-### 0. Setup Tutorial
-
-- [Tutorial - YouTuBe](https://www.youtube.com/watch?v=Q16ZH3kJWxw)
 
 ### 1. LLM -  OpenAI API Token
 <details><summary>👇click me</summary>
@@ -260,23 +240,6 @@ And it should work out of the box.
 </details>
 
 <br/>
-
-## 📍 Roadmap
-- [ ] Launch v0.0.3
-- [ ] Create a new character via web UI
-- [ ] Add additional tts service
-- [ ] Better UI/UX for home page
-- [ ] Better UI/UX for conversation page
-- [ ] Support MultiOn
-- [ ] Support SocialAGI
-
-## 🫶 Contribute to RealChar
-Please check out our [Contribution Guide](contribute.md)!
-
-## 💪 Contributors
-<a href="https://github.com/Shaunwei/RealChar">
-  <img src="https://contrib.rocks/image?repo=Shaunwei/RealChar" />
-</a>
 
 ## 🎲 Community
 - Join us on [Discord](https://discord.gg/e4AYNnFg2F)
