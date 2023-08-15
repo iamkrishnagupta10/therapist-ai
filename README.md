@@ -1,7 +1,7 @@
-# <img src="./realtime_ai_character/static/logoth.png" height="24px" style="padding-top:4px"/>RealChar. - Your Realtime AI Character
+# <img src="./realtime_ai_character/static/Therapist.png" height="24px" style="padding-top:4px"/>RealChar. - Your Realtime AI Character
 <br/>
 <div align="center">
-    <img src="./realtime_ai_character/static/logoth.png" alt="RealChar-logo" width="80%"  style="padding: 40px"/>
+    <img src="./realtime_ai_character/static/Therapist.png" alt="RealChar-logo" width="80%"  style="padding: 40px"/>
 </div>
 <br/>
 <p align="center">
